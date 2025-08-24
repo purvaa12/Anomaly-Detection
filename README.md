@@ -14,7 +14,7 @@ This notebook includes the following topics:
 Let's get started!
 
 ## Introduction
-I detect outliers using the Isolation Forest method. I use US public firm data (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689446">Yoon 2022</a>). Although I detect anomalies (outliers) to treat them before I conduct analyses on the data, the anomaly detection technique can be applied to many business settings, such as detecting fraudulent credit card spending.
+I detect outliers using the Isolation Forest method. I use US public firm data. Although I detect anomalies (outliers) to treat them before I conduct analyses on the data, the anomaly detection technique can be applied to many business settings, such as detecting fraudulent credit card spending.
 
 Figure 1 shows US public firms' features (characteristics) in 2-dimensions. The goal of this notebook is to detect outliers, as shown in red in Figure 2.
 
